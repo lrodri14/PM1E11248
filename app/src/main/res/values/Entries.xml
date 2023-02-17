@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="paises">
+        <item>Honduras</item>
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Costa Rica</item>
+    </array>
+</resources>
